@@ -8,7 +8,6 @@
 <body>
 
 <section>
-    <h2>Madhav Sales Data Analysis</h2>
     <p><strong>Project:</strong> To Track and Analyze their Online Sales</p>
 </section>
 
