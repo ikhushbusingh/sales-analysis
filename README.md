@@ -3,20 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Madhav Sales Data Analysis</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            text-align: center;
-        }
-        section {
-            margin-bottom: 40px;
-        }
-        h2 {
-            color: #333;
-        }
-    </style>
+    <h1>Madhav Sales Data Analysis</h1>
 </head>
 <body>
 
