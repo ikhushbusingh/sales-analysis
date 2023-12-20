@@ -1,79 +1,94 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Madhav Sales Data Analysis</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madhav Sales Data Analysis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #333;
+        }
+    </style>
 </head>
 <body>
 
-<h1>Madhav Sales Data Analysis</h1>
+<section>
+    <h2>Madhav Sales Data Analysis</h2>
+    <p><strong>Project:</strong> To Track and Analyze their Online Sales</p>
+</section>
 
-<table border="1">
-  <tr>
-    <th colspan="2">Title</th>
-  </tr>
-  <tr>
-    <td>Project</td>
-    <td>To Track and Analyze their Online Sales</td>
-  </tr>
-</table>
+<section>
+    <h2>Task Performed</h2>
+    <ul>
+        <li>Import Data</li>
+        <li>Transform the Data</li>
+        <li>Draw the Chart</li>
+        <li>Making the Interactive Dashboard</li>
+    </ul>
+</section>
 
-<br>
+<section>
+    <h2>Basic Information</h2>
+    <ul>
+        <li>Types of Category</li>
+        <ul>
+            <li>Clothing</li>
+            <li>Electronics</li>
+            <li>Furniture</li>
+        </ul>
+        <li>Payment Mode</li>
+        <ul>
+            <li>COD</li>
+            <li>Credit Card</li>
+            <li>Debit Card</li>
+            <li>Email</li>
+            <li>UPI</li>
+        </ul>
+    </ul>
+</section>
 
-<table border="1">
-  <tr>
-    <th colspan="2">Tasks Performed</th>
-  </tr>
-  <tr>
-    <td>Task 1</td>
-    <td>Import Data</td>
-  </tr>
-  <tr>
-    <td>Task 2</td>
-    <td>Transform the Data</td>
-  </tr>
-  <tr>
-    <td>Task 3</td>
-    <td>Draw the Chart</td>
-  </tr>
-  <tr>
-    <td>Task 4</td>
-    <td>Making the Interactive Dashboard</td>
-  </tr>
-</table>
+<section>
+    <h2>Top State Performer</h2>
+    <ul>
+        <li>These are States Out Performed in context of Quantity</li>
+        <li>Company needs to increase the quantity of stock in these states</li>
+        <li>Company can also give special offers to customers of these states</li>
+    </ul>
+</section>
 
-<br>
+<section>
+    <h2>Top Customers</h2>
+    <ul>
+        <li>These are 4 Top Customers in context of Amount</li>
+        <li>Company can give extra offers to these customers</li>
+    </ul>
+</section>
 
-<table border="1">
-  <tr>
-    <th colspan="2">Basic Information</th>
-  </tr>
-  <tr>
-    <td>Types of Category</td>
-    <td>
-      <ul>
-        <li>Clothing</li>
-        <li>Electronics</li>
-        <li>Furniture</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Payment Mode</td>
-    <td>
-      <ul>
-        <li>COD</li>
-        <li>Credit Card</li>
-        <li>Debit Card</li>
-        <li>Email</li>
-        <li>UPI</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<section>
+    <h2>Amount Distribution by Payment Method</h2>
+    <ul>
+        <li>These are the Payment modes used by customers, and COD mode is most frequently used</li>
+        <li>If the company wants customers to use any other particular mode of payment, it can give extra offers to those who use that mode of payment</li>
+    </ul>
+</section>
 
-<br>
-
-<!-- Similarly, you can create tables for Sheet 4 to Sheet 7 -->
+<section>
+    <h2>Project Learning</h2>
+    <ul>
+        <li>Create an interactive dashboard to track and analyze online sales data</li>
+        <li>Customization by using Filters and Slicers</li>
+        <li>Create connections, join tables</li>
+        <li>Use different types of charts like Bar chart, Pie chart, Donut chart</li>
+    </ul>
+</section>
 
 </body>
 </html>
